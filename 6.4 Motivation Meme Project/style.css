@@ -1,0 +1,18 @@
+h1{text-transform: uppercase;
+    font-size: 3rem;
+    
+}
+body{background-color: black;}
+  .motivate{
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-left:25%;
+    width: 50%;
+  }
+  .sunsetdown{ width: 100%;
+    border: 10px solid white;
+    
+
+  }
